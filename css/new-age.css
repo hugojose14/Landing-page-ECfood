@@ -181,7 +181,6 @@ header.masthead .device-container .screen img {
 }
 
 
-
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
@@ -203,7 +202,7 @@ header.masthead .device-container .screen img {
 
 @media (min-width: 992px){
   header.masthead .header-content h2 {
-      font-size: 100px;
+      font-size: 66px;
   }
 }
 
@@ -213,7 +212,7 @@ section.download {
 }
 
 section.download h2 {
-  font-size: 50px;
+  font-size: 20px;
   margin-top: 0;
 }
 
@@ -283,7 +282,7 @@ section.features .feature-item h3 {
 
 section.features .feature-item i {
   font-size: 80px;
-  display: block;
+  display: flex;
   margin-bottom: 15px;
   background: linear-gradient(to left, #7b4397, #dc2430);
   -webkit-background-clip: text;
@@ -304,7 +303,7 @@ section.cta .cta-content {
 }
 
 section.cta .cta-content h2 {
-  font-size: 50px;
+  font-size: 59px;
   max-width: 450px;
   margin-top: 0;
   margin-bottom: 25px;
@@ -313,7 +312,7 @@ section.cta .cta-content h2 {
 
 @media (min-width: 768px) {
   section.cta .cta-content h2 {
-    font-size: 80px;
+    font-size: 66px;
   }
 }
 
@@ -439,3 +438,5 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   font-size: 11px;
   padding: 15px 45px;
 }
+
+
